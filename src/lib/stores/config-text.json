@@ -6,7 +6,7 @@
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "The data in this article are from the European health interview survey (EHIS) which was conducted in 2019 and which covered persons aged 15 years and over. These data indicate that substantial inequalities exist in terms of sex, age and education level concerning the share of adults who are daily smokers of cigarettes, while there are also considerable differences between the EU Member States with respect to smoking habits",
+  "textNote": "The data in this map are from the European health interview survey (EHIS) which was conducted in 2019 and which covered persons aged 15 years and over. These data indicate that substantial inequalities exist in terms of sex, age and education level concerning the share of adults who are daily smokers of cigarettes, while there are also considerable differences between the EU Member States with respect to smoking habits",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
   "textCountryClick": "Click for more info"

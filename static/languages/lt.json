@@ -2,11 +2,11 @@
   "heading": "Dūmų signalai visoje Europoje: Kasdien rūkančiųjų ES-27 apžvalga",
   "subheading": "2019 m. 18,4 % 15 metų ir vyresnių ES gyventojų rūko kasdien, o vyrai dažniau nei moterys rūko kasdien.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "rūkyti kasdien",
+  "tooltip1": "kasdien rūkantiems",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Šiame žemėlapyje pateikti duomenys yra iš 2019 metais atlikto Europos sveikatos interviu tyrimo (EHIS), kuris apėmė 15 metų ir vyresnius asmenis. Šie duomenys rodo, kad esama didelių nelygybių lyties, amžiaus ir išsilavinimo lygio, susijusių su suaugusiųjų, kurie kasdien rūko cigaretes, dalies, taip pat yra didelių skirtumų tarp ES valstybių narių rūkymo įpročių atžvilgiu.",
+  "textNote": "Šiame žemėlapyje pateikti duomenys yra iš 2019 m. atlikto Europos sveikatos interviu tyrimo (EHIS), kuris apėmė 15 metų ir vyresnius asmenis. Šie duomenys rodo, kad egzistuoja didelė nelygybė lyties, amžiaus ir išsilavinimo lygio, susijusių su suaugusiųjų, kurie kasdien rūko cigaretes, dalis, o tarp ES valstybių narių taip pat yra didelių skirtumų, susijusių su rūkymo įpročiais.",
   "textDataAccess": "Pasiekite duomenis",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"

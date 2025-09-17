@@ -1,13 +1,13 @@
 {
-  "heading": "Rauchsignale in ganz Europa: Ein Überblick über den Anteil der täglichen Raucher in der EU27",
-  "subheading": "Unter der EU-Bevölkerung im Alter von 15 Jahren und älter waren im Jahr 2019 18,4 % tägliche Raucher, wobei Männer häufiger als Frauen täglich rauchten.",
+  "heading": "Rauchzeichen in ganz Europa: Ein Überblick über den Anteil der täglichen Raucher in der EU27",
+  "subheading": "Von der EU-Bevölkerung ab 15 Jahren waren im Jahr 2019 18,4 % tägliche Raucher, wobei die Wahrscheinlichkeit, dass Männer täglich rauchen, höher ist als bei Frauen.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "tägliche Raucher",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Daten in dieser Karte stammen aus der European Health Interview Survey (EHIS), die 2019 durchgeführt wurde und Personen ab 15 Jahren umfasste. Diese Daten deuten darauf hin, dass hinsichtlich des Anteils der Erwachsenen, die täglich Zigaretten rauchen, erhebliche Ungleichheiten in Bezug auf Geschlecht, Alter und Bildungsniveau bestehen, während es auch erhebliche Unterschiede zwischen den EU-Mitgliedstaaten hinsichtlich der Rauchgewohnheiten gibt",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Die Daten dieser Karte stammen aus der Europäischen Gesundheitsbefragung (EHIS), die 2019 durchgeführt wurde und Personen ab 15 Jahren umfasste. Diese Daten zeigen, dass hinsichtlich des Anteils der Erwachsenen, die täglich Zigaretten rauchen, erhebliche Ungleichheiten hinsichtlich Geschlecht, Alter und Bildungsniveau bestehen. Auch hinsichtlich der Rauchgewohnheiten gibt es zwischen den EU-Mitgliedstaaten erhebliche Unterschiede.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Dimni signali diljem Europe: pregled udjela svakodnevnih pušača u EU27",
-  "subheading": "Među stanovništvom EU-a u dobi od 15 godina i starijih 18,4% su svakodnevni pušači od 2019., pri čemu je vjerojatnije da će muškarci biti svakodnevni pušači vjerojatnije od žena.",
+  "heading": "Signali dima diljem Europe: Pregled udjela pušača koji svakodnevno puše u EU27",
+  "subheading": "Među stanovništvom EU u dobi od 15 godina i više, 18,4% su svakodnevni pušači prema podacima iz 2019., pri čemu su muškarci češće od žena pušači.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "svakodnevni pušači",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Podaci na ovoj karti su iz europske ankete o zdravstvenom intervjuu (EHIS) koja je provedena 2019. godine i koja je obuhvatila osobe u dobi od 15 godina i više. Ovi podaci pokazuju da postoje značajne nejednakosti po spolu, dobi i stupnju obrazovanja u pogledu udjela odraslih koji su svakodnevni pušači cigareta, dok postoje i značajne razlike među državama članicama EU u pušačkim navikama.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Podaci na ovoj karti potječu iz Europskog istraživanja o zdravlju (EHIS) provedenog 2019. godine, koje je obuhvatilo osobe u dobi od 15 i više godina. Ovi podaci ukazuju na značajne nejednakosti u pogledu spola, dobi i stupnja obrazovanja u pogledu udjela odraslih koji svakodnevno puše cigarete, dok postoje i značajne razlike između država članica EU-a u pogledu navika pušenja.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Kouřové signály v celé Evropě: Přehled o podílu každodenních kuřáků v EU27",
-  "subheading": "Mezi populací EU ve věku 15 let a starší je od roku 2019 18,4 % denních kuřáků, přičemž muži jsou častěji denními kuřáky než ženy.",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "heading": "Kouřové signály v Evropě: Přehled podílu kuřáků, kteří denně kouří, v EU-27",
+  "subheading": "V roce 2019 bylo mezi obyvateli EU ve věku 15 let a staršími 18,4 % denních kuřáků, přičemž muži byli denními kuřáky častěji než ženy.",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "denní kuřáci",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Údaje na této mapě pocházejí z evropského průzkumu zdravotních rozhovorů (EHIS), který byl proveden v roce 2019 a který zahrnoval osoby ve věku 15 let a více. Tyto údaje naznačují, že existují značné nerovnosti, pokud jde o pohlaví, věk a úroveň vzdělání, pokud jde o podíl dospělých, kteří jsou každodenními kuřáky cigaret, zatímco mezi členskými státy EU existují značné rozdíly, pokud jde o kuřácké návyky.",
+  "textNote": "Data na této mapě pocházejí z Evropského průzkumu zdraví (EHIS), který byl proveden v roce 2019 a zahrnoval osoby ve věku 15 let a starší. Tato data naznačují, že existují značné nerovnosti z hlediska pohlaví, věku a úrovně vzdělání, pokud jde o podíl dospělých, kteří denně kouří cigarety, a zároveň existují značné rozdíly mezi členskými státy EU, pokud jde o kuřácké návyky.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=cs",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
 }

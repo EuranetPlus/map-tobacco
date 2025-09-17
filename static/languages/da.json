@@ -1,13 +1,13 @@
 {
-  "heading": "Røgsignaler i hele Europa: En oversigt over andelen af daglige rygere i EU27",
-  "subheading": "Blandt EU-befolkningen på 15 år og ældre er 18,4 % daglige rygere fra 2019, og mænd er mere tilbøjelige end kvinder til at være daglige rygere.",
-  "legend1": "Ingen tilgængelig data",
+  "heading": "Røgsignaler i hele Europa: En oversigt over andelen af dagligrygere i EU27",
+  "subheading": "Blandt EU's befolkning på 15 år og derover var 18,4 % daglige rygere i 2019, hvor mænd er mere tilbøjelige end kvinder til at være daglige rygere.",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "daglige rygere",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Dataene i dette kort er fra den europæiske sundhedsinterviewundersøgelse (EHIS), som blev gennemført i 2019, og som omfattede personer på 15 år og derover. Disse data indikerer, at der er betydelige uligheder med hensyn til køn, alder og uddannelsesniveau med hensyn til andelen af voksne, der dagligt ryger cigaretter, mens der også er betydelige forskelle mellem EU-medlemsstaterne med hensyn til rygevaner",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=da",
-  "textCountryClick": "Klik for mere info"
+  "textNoteDescription": "Note",
+  "textNote": "Dataene på dette kort stammer fra den europæiske sundhedsinterviewundersøgelse (EHIS), som blev udført i 2019 og dækkede personer på 15 år og derover. Disse data viser, at der er betydelige uligheder med hensyn til køn, alder og uddannelsesniveau i forhold til andelen af voksne, der ryger cigaretter dagligt, samtidig med at der også er betydelige forskelle mellem EU-medlemsstaterne med hensyn til rygevaner.",
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
+  "textCountryClick": "Klik for mere information"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Comharthaí Deataigh ar fud na hEorpa: Forbhreathnú ar sciar na gcaiteoirí laethúla san AE27",
-  "subheading": "I measc dhaonra an AE atá 15 bliana d’aois agus níos sine tá 18.4% ina gcaitheann laethúil ó 2019 agus is dóichí go gcaitheann fir go laethúil ná mná.",
+  "heading": "Comharthaí Deataigh Ar Fud na hEorpa: Forbhreathnú ar sciar na gcaiteoirí tobac laethúla san AE27",
+  "subheading": "I measc dhaonra an AE atá 15 bliana d’aois agus níos sine, bhí 18.4% ina gcaiteoirí laethúla ó 2019 agus is dóichí go mbeadh fir níos dóchúla ná mná ina gcaiteoirí laethúla.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "daoine a chaitheann tobac laethúil",
+  "tooltip1": "caiteoirí laethúla",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Tagann na sonraí ar an léarscáil seo ón suirbhé agallaimh sláinte Eorpach (EHIS) a rinneadh in 2019 agus a chlúdaigh daoine 15 bliana d’aois agus níos sine. Léiríonn na sonraí seo go bhfuil neamhionannais shuntasacha ann maidir le gnéas, aois agus leibhéal oideachais maidir le sciar na ndaoine fásta a chaitheann toitíní go laethúil, agus tá difríochtaí suntasacha ann freisin idir Ballstáit an AE maidir le nósanna caitheamh tobac.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=ga",
+  "textNote": "Is ón suirbhé agallaimh sláinte Eorpach (SÁS) a rinneadh in 2019 agus a chuimsigh daoine 15 bliana d'aois agus os a chionn atá na sonraí sa léarscáil seo. Léiríonn na sonraí seo go bhfuil neamhionannais shuntasacha ann i dtéarmaí inscne, aoise agus leibhéal oideachais maidir le sciar na ndaoine fásta a chaitheann toitíní go laethúil, agus go bhfuil difríochtaí suntasacha idir Ballstáit an AE freisin maidir le nósanna caitheamh tobac.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Füstjelek Európa-szerte: Áttekintés a napi dohányzók arányáról az EU-27-ben",
-  "subheading": "Az EU 15 éves és idősebb lakosságának 18,4%-a dohányzik napi szinten 2019-ben, és a férfiak nagyobb valószínűséggel dohányoznak, mint a nők.",
-  "legend1": "Nincs elérhető adat",
+  "heading": "Füstjelek Európában: Áttekintés a napi dohányosok arányáról az EU27-ben",
+  "subheading": "2019-ben az EU 15 éves és idősebb lakosságának 18,4%-a dohányzott naponta, a férfiak nagyobb valószínűséggel dohányoztak naponta, mint a nők.",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "napi dohányosok",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
-  "textNote": "A térképen szereplő adatok a 2019-ben elvégzett európai egészségügyi felmérésből (EHIS) származnak, amely 15 éves és idősebb személyekre terjedt ki. Ezek az adatok azt mutatják, hogy jelentős egyenlőtlenségek mutatkoznak a nem, az életkor és az iskolai végzettség tekintetében a naponta cigarettázó felnőttek arányát illetően, ugyanakkor jelentős különbségek vannak az EU-tagállamok között a dohányzási szokások tekintetében is.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Az ezen a térképen látható adatok a 2019-ben végzett európai egészségügyi felmérésből (EHIS) származnak, amely 15 éves és idősebb személyeket érintett. Ezek az adatok azt mutatják, hogy jelentős egyenlőtlenségek vannak nem, életkor és iskolai végzettség tekintetében a napi cigarettát dohányzó felnőttek arányát illetően, miközben a dohányzási szokások tekintetében is jelentős eltérések vannak az EU tagállamai között.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

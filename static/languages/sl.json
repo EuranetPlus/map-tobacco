@@ -1,13 +1,13 @@
 {
-  "heading": "Dimni signali po Evropi: pregled deleža dnevnih kadilcev v EU27",
-  "subheading": "Med prebivalci EU, starimi 15 let in več, je od leta 2019 18,4 % dnevnih kadilcev, pri čemer je večja verjetnost, da bodo moški kadili dnevno kot ženske.",
-  "legend1": "Ni podatkov",
-  "tooltip1": "vsakodnevni kadilci",
+  "heading": "Dimni signali po Evropi: pregled deleža dnevnih kadilcev v EU-27",
+  "subheading": "Med prebivalstvom EU, starim 15 let in več, je bilo leta 2019 18,4 % dnevnih kadilcev, pri čemer so bili moški pogosteje dnevni kadilci kot ženske.",
+  "legend1": "Ni na voljo podatkov",
+  "tooltip1": "dnevni kadilci",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Podatki na tem zemljevidu so iz Evropske raziskave zdravstvenih intervjujev (EHIS), ki je bila izvedena leta 2019 in je zajela osebe, stare 15 let in več. Ti podatki kažejo, da obstajajo precejšnje neenakosti glede na spol, starost in stopnjo izobrazbe glede deleža odraslih, ki vsakodnevno kadijo cigarete, precejšnje razlike med državami članicami EU pa so tudi glede kadilskih navad.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Podatki na tem zemljevidu so iz evropske ankete o zdravju (EHIS), ki je bila izvedena leta 2019 in je zajela osebe, stare 15 let in več. Ti podatki kažejo, da obstajajo precejšnje neenakosti glede na spol, starost in izobrazbo glede deleža odraslih, ki dnevno kadijo cigarete, hkrati pa obstajajo precejšnje razlike med državami članicami EU glede kadilskih navad.",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"
 }

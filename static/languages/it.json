@@ -1,13 +1,13 @@
 {
   "heading": "Segnali di fumo in tutta Europa: una panoramica sulla quota di fumatori giornalieri nell'UE27",
-  "subheading": "Tra la popolazione dell'UE di età pari o superiore a 15 anni, nel 2019 il 18,4% fuma quotidianamente, con gli uomini che hanno maggiori probabilità delle donne di essere fumatori giornalieri.",
+  "subheading": "Nel 2019, il 18,4% della popolazione dell'UE di età pari o superiore a 15 anni era costituito da fumatori abituali; gli uomini avevano più probabilità delle donne di essere fumatori abituali.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "fumatori giornalieri",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "I dati in questa mappa provengono dall'indagine europea sulle interviste sanitarie (EHIS) condotta nel 2019 e che ha riguardato persone di età pari o superiore a 15 anni. Questi dati indicano che esistono sostanziali disuguaglianze in termini di sesso, età e livello di istruzione per quanto riguarda la quota di adulti che fumano quotidianamente sigarette, mentre esistono anche notevoli differenze tra gli Stati membri dell’UE per quanto riguarda le abitudini al fumo",
+  "textNote": "I dati in questa mappa provengono dall'indagine europea sulla salute (EHIS), condotta nel 2019 e che ha coinvolto persone di età pari o superiore a 15 anni. Questi dati indicano che esistono notevoli disuguaglianze in termini di sesso, età e livello di istruzione per quanto riguarda la quota di adulti fumatori giornalieri di sigarette, mentre sussistono notevoli differenze tra gli Stati membri dell'UE per quanto riguarda le abitudini al fumo.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
-  "textCountryClick": "Fare clic per maggiori informazioni"
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

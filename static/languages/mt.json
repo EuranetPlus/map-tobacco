@@ -1,13 +1,13 @@
 {
-  "heading": "Sinjali tad-Duħħan Madwar l-Ewropa: Ħarsa ġenerali dwar is-sehem ta’ min ipejjep ta’ kuljum fl-UE27",
-  "subheading": "Fost il-popolazzjoni tal-UE ta' 15-il sena 'l fuq, 18.4% huma jpejpu kuljum mill-2019 bl-irġiel huma aktar probabbli min-nisa li jpejpu kuljum.",
+  "heading": "Sinjali tad-Duħħan Madwar l-Ewropa: Ħarsa ġenerali lejn is-sehem ta’ dawk li jpejpu kuljum fl-UE27",
+  "subheading": "Fost il-popolazzjoni tal-UE li għandha 15-il sena jew aktar, 18.4% kienu jpejpu kuljum mill-2019, bl-irġiel ikunu aktar probabbli li jpejpu kuljum min-nisa.",
   "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "dawk li jpejpu kuljum",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Id-dejta f’din il-mappa hija mill-istħarriġ Ewropew dwar l-intervisti tas-saħħa (EHIS) li sar fl-2019 u li kopra persuni minn 15-il sena jew aktar. Din id-dejta tindika li jeżistu inugwaljanzi sostanzjali f’termini ta’ sess, età u livell ta’ edukazzjoni rigward is-sehem ta’ adulti li jpejpu s-sigaretti kuljum, filwaqt li hemm ukoll differenzi konsiderevoli bejn l-Istati Membri tal-UE fir-rigward tad-drawwiet tat-tipjip.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Id-dejta f’din il-mappa hija mill-istħarriġ Ewropew dwar l-intervisti dwar is-saħħa (EHIS) li sar fl-2019 u li kopra persuni ta’ 15-il sena jew aktar. Din id-dejta tindika li jeżistu inugwaljanzi sostanzjali f’termini ta’ sess, età u livell ta’ edukazzjoni rigward is-sehem ta’ adulti li jpejpu s-sigaretti kuljum, filwaqt li hemm ukoll differenzi konsiderevoli bejn l-Istati Membri tal-UE fir-rigward tad-drawwiet tat-tipjip.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

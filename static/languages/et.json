@@ -1,12 +1,12 @@
 {
-  "heading": "Suitsusignaalid kogu Euroopas: ülevaade igapäevasuitsetajate osatähtsuse kohta EL 27s",
-  "subheading": "2019. aasta seisuga suitsetab 15-aastastest ja vanematest ELi elanikkonnast igapäevaselt 18,4%, kusjuures mehed suitsetavad sagedamini kui naised.",
-  "legend1": "Andmed puuduvad",
+  "heading": "Suitsusignaalid Euroopas: ülevaade igapäevasuitsetajate osakaalust EL 27-s",
+  "subheading": "2019. aasta seisuga oli 15-aastaste ja vanemate ELi elanikkonna seas 18,4% igapäevased suitsetajad, kusjuures mehed suitsetasid iga päev tõenäolisemalt kui naised.",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "igapäevased suitsetajad",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Sellel kaardil olevad andmed pärinevad Euroopa terviseintervjuude uuringust (EHIS), mis viidi läbi 2019. aastal ja mis hõlmas 15-aastaseid ja vanemaid inimesi. Need andmed näitavad, et igapäevaste sigarette suitsetavate täiskasvanute osakaalu osas on soo, vanuse ja haridustaseme osas märkimisväärne ebavõrdsus, samas kui suitsetamisharjumustes on ELi liikmesriikide vahel suuri erinevusi.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Sellel kaardil olevad andmed pärinevad Euroopa terviseküsitlusest (EHIS), mis viidi läbi 2019. aastal ja mis hõlmas 15-aastaseid ja vanemaid isikuid. Need andmed näitavad, et igapäevaste sigarettide suitsetajate osakaalu osas esineb olulisi ebavõrdsusi soo, vanuse ja haridustaseme osas, samas on ka ELi liikmesriikide vahel märkimisväärseid erinevusi suitsetamisharjumuste osas.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

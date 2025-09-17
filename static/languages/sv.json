@@ -1,13 +1,13 @@
 {
-  "heading": "Röksignaler över hela Europa: En översikt över andelen dagligrökare i EU27",
-  "subheading": "Bland EU-befolkningen i åldern 15 år och äldre är 18,4 % dagligrökare från och med 2019, och män är mer benägna än kvinnor att röka dagligen.",
-  "legend1": "Ingen data tillgänglig",
+  "heading": "Röksignaler i Europa: En översikt över andelen dagligrökare i EU27",
+  "subheading": "Bland EU:s befolkning i åldern 15 år och äldre var 18,4 % dagligrökare från och med 2019, och män är mer benägna än kvinnor att vara dagligrökare.",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "dagliga rökare",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Uppgifterna i denna karta är från den europeiska hälsointervjuundersökningen (EHIS) som genomfördes 2019 och som omfattade personer från 15 år och äldre. Dessa uppgifter tyder på att det finns betydande ojämlikheter i fråga om kön, ålder och utbildningsnivå när det gäller andelen vuxna som dagligen röker cigaretter, samtidigt som det också finns betydande skillnader mellan EU:s medlemsstater när det gäller rökvanor.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Uppgifterna i denna karta kommer från den europeiska hälsointervjuundersökningen (EHIS) som genomfördes 2019 och omfattade personer i åldern 15 år och äldre. Dessa uppgifter visar att det finns betydande ojämlikheter vad gäller kön, ålder och utbildningsnivå när det gäller andelen vuxna som röker cigaretter dagligen, samtidigt som det också finns betydande skillnader mellan EU:s medlemsstater när det gäller rökvanor.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

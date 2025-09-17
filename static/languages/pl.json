@@ -1,13 +1,13 @@
 {
-  "heading": "Sygnały dymne w Europie: przegląd odsetka osób palących codziennie w UE27",
-  "subheading": "Wśród populacji UE w wieku 15 lat i starszych 18,4% to palacze codziennie (stan na 2019 r.), przy czym prawdopodobieństwo, że codziennie palą mężczyźni niż kobiety.",
+  "heading": "Sygnały dymne w Europie: Przegląd odsetka osób palących codziennie w UE27",
+  "subheading": "W 2019 r. 18,4% populacji UE w wieku 15 lat i starszych paliło codziennie, przy czym mężczyźni częściej niż kobiety palą codziennie.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "palacze codziennie",
+  "tooltip1": "palacze dzienni",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Dane na tej mapie pochodzą z europejskiego badania wywiadu dotyczącego stanu zdrowia (EHIS), które przeprowadzono w 2019 r. i objęło osoby w wieku 15 lat i więcej. Dane te wskazują, że istnieją znaczne nierówności pod względem płci, wieku i poziomu wykształcenia w zakresie odsetka dorosłych codziennie palących papierosy, a także istnieją znaczne różnice pomiędzy państwami członkowskimi UE pod względem nawyków palenia",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Dane na tej mapie pochodzą z Europejskiego Badania Zdrowia (EHIS), przeprowadzonego w 2019 roku i obejmującego osoby w wieku 15 lat i starsze. Dane te wskazują na znaczne nierówności pod względem płci, wieku i wykształcenia w odsetku dorosłych palących papierosy codziennie, a także na znaczne różnice między państwami członkowskimi UE w zakresie nawyków związanych z paleniem.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

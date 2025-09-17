@@ -1,13 +1,13 @@
 {
-  "heading": "Semnale de fum în Europa: o imagine de ansamblu despre ponderea fumătorilor zilnici în UE27",
-  "subheading": "Dintre populația UE cu vârsta de 15 ani și peste, 18,4% sunt fumători zilnici începând cu 2019, bărbații fiind mai probabil decât femeile să fie fumători zilnic.",
-  "legend1": "Nici o informatie disponibila",
+  "heading": "Semnale de fum în Europa: O prezentare generală a ponderii fumătorilor zilnici în UE-27",
+  "subheading": "În rândul populației UE cu vârsta de 15 ani și peste, 18,4% erau fumători zilnici începând cu 2019, bărbații fiind mai predispuși decât femeile să fie fumători zilnici.",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "fumători zilnici",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
-  "textNote": "Datele din această hartă provin din sondajul european de interviu de sănătate (EHIS) care a fost realizat în 2019 și care a acoperit persoane cu vârsta de 15 ani și peste. Aceste date indică faptul că există inegalități substanțiale în ceea ce privește sexul, vârsta și nivelul de educație în ceea ce privește ponderea adulților care fumează zilnic țigări, în timp ce există și diferențe considerabile între statele membre ale UE în ceea ce privește obiceiurile de fumat.",
+  "textNoteDescription": "Nota",
+  "textNote": "Datele din această hartă provin din ancheta europeană privind sănătatea prin interviu (EHIS), care a fost realizată în 2019 și care a acoperit persoane cu vârsta de 15 ani și peste. Aceste date indică faptul că există inegalități substanțiale în ceea ce privește sexul, vârsta și nivelul de educație în ceea ce privește ponderea adulților care fumează zilnic țigări, existând în același timp diferențe considerabile între statele membre ale UE în ceea ce privește obiceiurile de a fuma.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=ro",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

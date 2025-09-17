@@ -1,13 +1,13 @@
 {
   "heading": "Dūmu signāli visā Eiropā: pārskats par ikdienas smēķētāju īpatsvaru ES 27 valstīs",
-  "subheading": "2019. gadā 18,4% ES iedzīvotāju vecumā no 15 gadiem smēķē katru dienu, un vīrieši biežāk nekā sievietes smēķē katru dienu.",
-  "legend1": "Nav pieejami dati",
+  "subheading": "2019. gadā ES iedzīvotāju vidū vecumā no 15 gadiem 18,4% smēķē katru dienu, un vīrieši smēķē katru dienu biežāk nekā sievietes.",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "ikdienas smēķētāji",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Dati šajā kartē ir no Eiropas veselības interviju aptaujas (EHIS), kas tika veikta 2019. gadā un kas aptvēra personas vecumā no 15 gadiem. Šie dati liecina, ka pastāv būtiskas nevienlīdzības dzimuma, vecuma un izglītības līmeņa ziņā attiecībā uz to pieaugušo īpatsvaru, kuri ikdienā smēķē cigaretes, kā arī pastāv ievērojamas atšķirības starp ES dalībvalstīm attiecībā uz smēķēšanas paradumiem.",
+  "textNote": "Šajā kartē redzamie dati ir no Eiropas veselības interviju apsekojuma (EHIS), kas tika veikts 2019. gadā un kurā piedalījās personas vecumā no 15 gadiem. Šie dati liecina, ka pastāv ievērojama nevienlīdzība dzimuma, vecuma un izglītības līmeņa ziņā attiecībā uz to pieaugušo īpatsvaru, kuri ikdienā smēķē cigaretes, un pastāv arī ievērojamas atšķirības starp ES dalībvalstīm attiecībā uz smēķēšanas paradumiem.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

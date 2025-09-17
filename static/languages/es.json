@@ -1,13 +1,13 @@
 {
-  "heading": "Señales de humo en toda Europa: una visión general sobre la proporción de fumadores diarios en la UE27",
-  "subheading": "Entre la población de la UE de 15 años o más, el 18,4% son fumadores diarios en 2019, y los hombres tienen más probabilidades que las mujeres de ser fumadores diarios.",
-  "legend1": "Datos no disponibles",
+  "heading": "Señales de humo en Europa: una visión general de la proporción de fumadores diarios en la UE27",
+  "subheading": "Entre la población de la UE de 15 años o más, el 18,4 % eran fumadores diarios en 2019, y los hombres tenían más probabilidades de ser fumadores diarios que las mujeres.",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "fumadores diarios",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Los datos de este mapa proceden de la encuesta europea de entrevistas de salud (EHIS) que se realizó en 2019 y que abarcó a personas de 15 años o más. Estos datos indican que existen desigualdades sustanciales en términos de sexo, edad y nivel de educación en lo que respecta a la proporción de adultos que fuman cigarrillos a diario, mientras que también existen diferencias considerables entre los Estados miembros de la UE con respecto a los hábitos de fumar.",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
+  "textNote": "Los datos de este mapa proceden de la Encuesta Europea de Salud (EHIS), realizada en 2019 y que abarcó a personas mayores de 15 años. Estos datos indican que existen desigualdades sustanciales en cuanto a sexo, edad y nivel educativo en cuanto a la proporción de adultos que fuman cigarrillos a diario, así como diferencias considerables entre los Estados miembros de la UE en cuanto al hábito tabáquico.",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=es",
   "textCountryClick": "Haga clic para más información"
 }

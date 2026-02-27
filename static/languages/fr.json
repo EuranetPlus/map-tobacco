@@ -1,13 +1,13 @@
 {
-  "heading": "Signaux de fumée à travers l'Europe : aperçu de la part des fumeurs quotidiens dans l'UE27",
-  "subheading": "Parmi la population de l'UE âgée de 15 ans et plus, 18,4 % sont des fumeurs quotidiens en 2019, les hommes étant plus susceptibles que les femmes d'être des fumeurs quotidiens.",
+  "heading": "Signaux de fumée à travers l'Europe : combien fument les Européens ?",
+  "subheading": "En 2019, 18,4 % de la population de l'UE âgée de 15 ans et plus fumait quotidiennement, les hommes étant plus susceptibles que les femmes d'être des fumeurs quotidiens.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "fumeurs quotidiens",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Les données de cette carte proviennent de l'Enquête européenne sur la santé par entretien (EHIS), menée en 2019 auprès des personnes âgées de 15 ans et plus. Elles révèlent d'importantes inégalités selon le sexe, l'âge et le niveau d'éducation concernant la proportion d'adultes fumeurs quotidiens, ainsi que des différences considérables entre les États membres de l'UE en matière de consommation de tabac.",
+  "textNote": "Les données de cette carte proviennent de l'enquête européenne sur la santé (EHIS), menée en 2019 auprès des personnes âgées de 15 ans et plus. Ces données révèlent d'importantes inégalités selon le sexe, l'âge et le niveau d'éducation concernant la proportion d'adultes qui fument quotidiennement des cigarettes, ainsi que des différences considérables entre les États membres de l'UE en matière de tabagisme.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=fr",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

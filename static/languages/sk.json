@@ -1,12 +1,12 @@
 {
-  "heading": "Dymové signály v Európe: Prehľad podielu denných fajčiarov v EÚ-27",
-  "subheading": "V roku 2019 bolo medzi obyvateľmi EÚ vo veku 15 rokov a staršími 18,4 % denných fajčiarov, pričom muži fajčili častejšie ako ženy.",
+  "heading": "Dymové signály v Európe: koľko Európania fajčia?",
+  "subheading": "V roku 2019 fajčilo denne 18,4 % populácie EÚ vo veku 15 rokov a viac, pričom muži fajčili denne častejšie ako ženy.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "denní fajčiari",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Údaje na tejto mape pochádzajú z Európskeho prieskumu zdravia (EHIS), ktorý sa uskutočnil v roku 2019 a ktorý zahŕňal osoby vo veku 15 rokov a viac. Tieto údaje naznačujú, že existujú značné nerovnosti z hľadiska pohlavia, veku a úrovne vzdelania, pokiaľ ide o podiel dospelých, ktorí denne fajčia cigarety, pričom medzi členskými štátmi EÚ existujú aj značné rozdiely, pokiaľ ide o fajčiarske návyky.",
+  "textNote": "Údaje na tejto mape pochádzajú z Európskeho prieskumu zdravia (EHIS), ktorý sa uskutočnil v roku 2019 a zahŕňal osoby vo veku 15 rokov a viac. Tieto údaje naznačujú, že existujú značné nerovnosti z hľadiska pohlavia, veku a úrovne vzdelania, pokiaľ ide o podiel dospelých, ktorí denne fajčia cigarety, pričom medzi členskými štátmi EÚ existujú aj značné rozdiely, pokiaľ ide o fajčiarske návyky.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/hlth_ehis_sk3e/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"
